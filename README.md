@@ -19,7 +19,7 @@
     <img alt="stars" title="stars" src="https://custom-icon-badges.demolab.com/github/stars/Jagaima?logo=star&style=for-the-badge&color=FF0000&labelColor=000000"/>
     <img alt="Views" title="Views" src="https://komarev.com/ghpvc/?username=Jagaima&style=for-the-badge&color=00000F"/>
     <img alt="WakaTime" title="WakaTime" src="https://wakatime.com/badge/user/17aa342d-9856-456f-ad74-c4696818a745.svg?&logoColor=white&style=for-the-badge&color=00000F"/>
-    <img alt="Repos" title="Repos" src="https://custom-icon-badges.demolab.com/badge/-Jagaima.com-black?logo=package&logoColor=white&style=for-the-badge"/>
+
 <p/>
 
 
@@ -49,7 +49,7 @@ Oi! Meu nome é Davi Nobre e sou estudante de engenharia de software na UNB. Sou
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagaima&layout=compact&text_color=FFFFFF&bg_color=000000&card_width=805&hide_border=true&title_color=FF0000" />
     <br/>
     <!-- https://github.com/anuraghazra/github-readme-stats // WakaTime Stats-->
-<img align="center" width="805" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Jagaima&theme=midnight-purple&card_width=805&title_color=FF0000&bg_color=000000&layout=default&hide_border=true&text_color=FFFFFF" />
+<img align="center" width="805" src="https://github-readme-stats.vercel.app/api/wakatime?username=@JagaimaJagaima&theme=midnight-purple&card_width=805&title_color=FF0000&bg_color=000000&layout=default&hide_border=true&text_color=FFFFFF" />
 </p>
 </details>
 
