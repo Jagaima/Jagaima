@@ -49,7 +49,7 @@ Oi! Meu nome é Davi Nobre e sou estudante de engenharia de software na UNB. Sou
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagaima&layout=compact&text_color=FFFFFF&bg_color=000000&card_width=805&hide_border=true&title_color=FF0000" />
     <br/>
     <!-- https://github.com/anuraghazra/github-readme-stats // WakaTime Stats-->
-<img align="center" width="805" src="https://github-readme-stats.vercel.app/api/wakatime?username=@JagaimaJagaima&theme=midnight-purple&card_width=805&title_color=FF0000&bg_color=000000&layout=default&hide_border=true&text_color=FFFFFF" />
+<img align="center" width="805" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Jagaima&theme=midnight-purple&card_width=805&title_color=FF0000&bg_color=000000&layout=default&hide_border=true&text_color=FFFFFF" />
 </p>
 </details>
 
