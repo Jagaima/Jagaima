@@ -18,7 +18,7 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Jagaima?color=FF0000&style=for-the-badge&logo=person-add&labelColor=000000&logoColor=white&label=Follow"/></a>
     <img alt="stars" title="stars" src="https://custom-icon-badges.demolab.com/github/stars/Jagaima?logo=star&style=for-the-badge&color=FF0000&labelColor=000000"/>
     <img alt="Views" title="Views" src="https://komarev.com/ghpvc/?username=Jagaima&style=for-the-badge&color=00000F"/>
-    <img alt="WakaTime" title="WakaTime" src="https://wakatime.com/badge/user/a7712081-caba-4e50-9f41-e59067e77902.svg?&logoColor=white&style=for-the-badge&color=00000F"/>
+    <img alt="WakaTime" title="WakaTime" src="https://wakatime.com/badge/user/17aa342d-9856-456f-ad74-c4696818a745.svg?&logoColor=white&style=for-the-badge&color=00000F"/>
     <img alt="Repos" title="Repos" src="https://custom-icon-badges.demolab.com/badge/-Jagaima.com-black?logo=package&logoColor=white&style=for-the-badge"/>
 <p/>
 
